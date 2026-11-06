@@ -1,5 +1,7 @@
 # AMAN — Fraud Intelligence Aggregator
 
+> **Status:** Work in progress (early development). Endpoints and data sources may change.
+
 Open Indonesian fraud-intelligence aggregator.
 
 Aggregates community-maintained fraud data sources (check-account, scam-number listings, etc.) into a single programmable API, with bilingual (EN/ID) analysis via Cloudflare Workers AI.
